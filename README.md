@@ -1,6 +1,12 @@
-# Level-Field.ai – Growth & Impact Strategy
+# Level-Field.ai – Growth & Impact Strategy  
 
-Level-Field.ai exists to **democratize AI solutions for enterprise, SMB, and government**, ensuring advanced AI is **accessible, affordable, and actionable**.
+![AI Strategy](https://img.shields.io/badge/AI%20Strategy-Boardroom%20Ready-blueviolet?style=for-the-badge&logo=amp)  
+![Funding](https://img.shields.io/badge/Funding-Non%20Dilutive%20Grants-success?style=for-the-badge&logo=Google)  
+![Growth](https://img.shields.io/badge/Scale-200→1200%20Clients%2FMonth-orange?style=for-the-badge&logo=GraphQL)  
+![Compliance](https://img.shields.io/badge/Compliance-TCPA%20%7C%20TREC%20%7C%20Fair%20Housing-critical?style=for-the-badge&logo=law)  
+![Marketing](https://img.shields.io/badge/Marketing-Authority%20%7C%20Funnel%20Driven-brightgreen?style=for-the-badge&logo=PodcastAddict)  
+
+Level-Field.ai exists to **democratize AI solutions for enterprise, SMB, and government**, ensuring advanced AI is **accessible, affordable, and actionable**.  
 
 ---
 
