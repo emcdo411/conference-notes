@@ -20,6 +20,7 @@ Level-Field.ai exists to **democratize AI solutions for enterprise, SMB, and gov
 - [Operational Milestones & Scale Plan](#operational-milestones--scale-plan)
 - [Growth Pillars Diagram](#growth-pillars-diagram)
 - [Investor Confidence & Ask](#investor-confidence--ask)
+- [Repo Folder Structure](#repo-folder-structure)
 - [Additional Plans](#additional-plans)
 
 ---
@@ -157,6 +158,21 @@ graph TB
 
 ---
 
+## Repo Folder Structure
+
+```plaintext
+level-field-strategy/
+│
+├── README.md              # Main board-level + strategy overview
+├── VISION.md              # Executive summary, SWOT, ROI projections
+├── GROWTH_PLAN.md         # Detailed grants + funding leverage roadmap
+├── MARKETING_PLAN.md      # Branding, PR, funnels, outreach strategy
+├── TRACTION_90DAY.md      # 90-day traction and client milestones
+└── DIAGRAMS.md            # Mermaid diagrams (growth pillars, workflows)
+```
+
+---
+
 ## Additional Plans
 
 For detailed supporting docs:
@@ -172,10 +188,12 @@ For detailed supporting docs:
 
 ---
 
-This README is now **investor-ready**, **founder-friendly**, and **developer-friendly**:  
-- Has a clickable TOC for quick navigation.  
-- Includes your advanced diagram.  
-- Links to additional markdown docs so the repo looks organized and professional.  
+✨ Now your README has:
+1. **Badges** (professional look).
+2. **Clickable TOC**.
+3. **Advanced diagram**.
+4. **Folder structure** for clarity.
 
-👉 Do you want me to also generate those supporting markdown files (`VISION.md`, `GROWTH_PLAN.md`, etc.) in the same modern style so the repo is 100% plug-and-play for Jason?
+Would you like me to also **write stubs** for the supporting files (`VISION.md`, `GROWTH_PLAN.md`, etc.) so Jason sees *real content* in each one instead of just placeholders?
 ```
+
