@@ -83,29 +83,29 @@ graph TB
   LF[Level-Field.ai Strategy]
 
   subgraph FUNDING["Funding (Non-Dilutive First)"]
-    F1[Grants < $100K\nHubZone • Blackouth EBS • BBRC]
-    F2[SAFE/Equity only after\ntraction milestones]
-    F3[Use of funds:\nPR • Client Acquisition • Delivery Scale]
+    F1[Grants < $100K: HubZone, Blackouth EBS, BBRC]
+    F2[SAFE or Equity after traction milestones]
+    F3[Use of funds: PR, Client Acquisition, Delivery Scale]
   end
 
-  subgraph MKT["Marketing & Authority"]
-    M1[Amazon Publishing\nWhitepaper/Ebook]
-    M2[Podcast (AnchorFM)\n20 min • Bi-monthly]
-    M3[PR: HARO • Cision • HERO]
-    M4[Website = Traction Dashboard\nCase Studies • CTAs • Media Mentions]
-    M5[Relationship-First Funnel\nAwareness → Engagement → Conversion → Upsell]
+  subgraph MKT["Marketing and Authority"]
+    M1[Amazon Publishing: Whitepaper and Ebook]
+    M2[Podcast AnchorFM: 20 min, twice monthly]
+    M3[PR: HARO, Cision, HERO]
+    M4[Website as Traction Dashboard: Case Studies, CTAs, Media Mentions]
+    M5[Relationship-First Funnel: Awareness -> Engagement -> Conversion -> Upsell]
   end
 
   subgraph TRAC["90-Day Traction"]
-    T1[Month 1:\nGrants + minority.com]
-    T2[Month 2:\nEbook + Podcast Launch]
-    T3[Month 3:\nPR Mentions + 100+ Clients]
+    T1[Month 1: Grants and minority.com]
+    T2[Month 2: Ebook and Podcast Launch]
+    T3[Month 3: PR Mentions and 100+ Clients]
   end
 
   subgraph SCALE["Scale (4-Year Roadmap)"]
-    S1[Clients/Month:\n200 → 1,200]
-    S2[Annual Multiplier:\n3–4×]
-    S3[Partnerships & Channels:\nVC • Enterprise • Gov]
+    S1[Clients per Month: 200 -> 1,200]
+    S2[Annual Multiplier: 3-4x]
+    S3[Partnerships and Channels: VC, Enterprise, Government]
   end
 
   LF --> FUNDING
@@ -114,11 +114,11 @@ graph TB
   LF --> SCALE
 
   KPI[Core KPIs]
-  K1[Conversion 10–15%]
-  K2[CAC ↓]
-  K3[Time-to-First-Contact ↓]
-  K4[PR Mentions ↑]
-  K5[Run-Rate Revenue ↑]
+  K1[Conversion 10-15%]
+  K2[CAC down]
+  K3[Time to First Contact down]
+  K4[PR Mentions up]
+  K5[Run Rate Revenue up]
   SCALE --> KPI
   TRAC --> KPI
   MKT --> KPI
@@ -128,24 +128,11 @@ graph TB
   KPI --> K4
   KPI --> K5
 
-  GRC[Guardrails:\nTCPA • TREC • Fair Housing]
-  DS[Data Ethics:\nBias Checks • Audit Logs]
+  GRC[Guardrails: TCPA, TREC, Fair Housing]
+  DS[Data Ethics: Bias Checks, Audit Logs]
   MKT --> GRC
   LF --> DS
 
-  style LF fill:#0b2239,stroke:#5fa8ff,stroke-width:2px,color:#eaf2ff
-  style FUNDING fill:#102a49,stroke:#5fa8ff,color:#eaf2ff
-  style MKT fill:#0b2e4a,stroke:#7ec8ff,color:#eaf2ff
-  style TRAC fill:#123a63,stroke:#7ec8ff,color:#eaf2ff
-  style SCALE fill:#1f2a3a,stroke:#ffb84f,color:#ffe8c2
-  style KPI fill:#0a1f33,stroke:#8ad3ff,color:#eaf2ff
-  style GRC fill:#172a46,stroke:#ffb84f,color:#ffe8c2
-  style DS fill:#172a46,stroke:#ffb84f,color:#ffe8c2
-  style K1 fill:#0a1f33,stroke:#8ad3ff,color:#eaf2ff
-  style K2 fill:#0a1f33,stroke:#8ad3ff,color:#eaf2ff
-  style K3 fill:#0a1f33,stroke:#8ad3ff,color:#eaf2ff
-  style K4 fill:#0a1f33,stroke:#8ad3ff,color:#eaf2ff
-  style K5 fill:#0a1f33,stroke:#8ad3ff,color:#eaf2ff
 ````
 
 ---
